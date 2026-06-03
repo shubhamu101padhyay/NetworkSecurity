@@ -3,4 +3,8 @@ pandas
 numpy
 pymongo
 certifi
--e .
+python-dotenv
+pandas
+numpy
+pymongo
+certifi
